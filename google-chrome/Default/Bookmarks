@@ -1,0 +1,76 @@
+{
+   "checksum": "aef4d8420212fdcc802a223e784f2294",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13279706812162687",
+            "guid": "12326aad-e057-4524-a784-917569acfba5",
+            "id": "5",
+            "name": "数据地图",
+            "type": "url",
+            "url": "https://dmc-cn-hangzhou.data.aliyun.com/dm/"
+         }, {
+            "date_added": "13279706831053272",
+            "guid": "038c6190-e83c-478c-a5d9-d57b4cff183e",
+            "id": "6",
+            "name": "数据保护伞",
+            "type": "url",
+            "url": "https://dsg-cn-hangzhou.data.aliyun.com/index.htm#/main/home"
+         }, {
+            "date_added": "13279706843435136",
+            "guid": "a56f9178-8337-4f63-ad04-9a4df068e955",
+            "id": "7",
+            "name": "zhiyun_dw•DataStudio(数据开发)",
+            "type": "url",
+            "url": "https://ide2-cn-hangzhou.data.aliyun.com/?defaultProjectId=18274"
+         }, {
+            "date_added": "13279706855242151",
+            "guid": "6d43e45c-332b-414c-8a7a-24d6cdc96ba4",
+            "id": "8",
+            "name": "ty_data_platform•DataStudio(数据开发)",
+            "type": "url",
+            "url": "https://ide2-cn-shanghai.data.aliyun.com/?defaultProjectId=20756"
+         }, {
+            "date_added": "13279706871479312",
+            "guid": "972ee263-89a1-437f-9caf-795c1728d2b2",
+            "id": "9",
+            "name": "实时计算控制台",
+            "type": "url",
+            "url": "https://realtime-compute.console.aliyun.com/console/cell?spm=5176.2020520169.nav-right.1.11d875bdnv2bFt#/dashboard/serverless/asi"
+         }, {
+            "date_added": "13279706885600431",
+            "guid": "8ed39419-fb51-4ea3-993b-d9dfffcb1ea5",
+            "id": "10",
+            "name": "数据总线DataHub",
+            "type": "url",
+            "url": "https://dhsnext.console.aliyun.com/cn-hangzhou/overview?spm=5176.12905683.products-recent.ddatahub.66ac7b260H0cID#/main"
+         } ],
+         "date_added": "13279706776914710",
+         "date_modified": "13279706885600431",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13279706776914717",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "其他书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13279706776914720",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
+
