@@ -8,7 +8,7 @@ docker build -t    ubuntu-xfce-xrdp  -f Dockerfile    .  --no-cache --squash
 # 例子
 ```
 
-// 以指定的分辨率运行容器，指定SSH和VNC端口
+// 以指定的分辨率运行容器，指定SSH和XRDP端口
 docker run -d -p 22:22 -p 3389:3389 ubuntu-chrom-xrdp
 
 
