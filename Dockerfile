@@ -15,7 +15,7 @@ COPY windows/ /usr/share/fonts/windows/
 COPY locale /etc/default/locale
 
 # 设定密码
-RUN echo 'root:password' | /usr/sbin/chpasswd -e && \
+RUN echo 'root:$1$JNtOqGhO$ayinI1eVc0NPIukra3LFn0' | /usr/sbin/chpasswd -e && \
 # apt源
 sed -i 's/security.ubuntu.com/mirrors.163.com/g' /etc/apt/sources.list && sed -i 's/archive.ubuntu.com/mirrors.163.com/g' /etc/apt/sources.list
 
